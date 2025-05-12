@@ -18,3 +18,22 @@
 1. Clone the repository
 2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse)
 3. Build and run the project
+
+## Deutsch 🇩🇪
+
+### Funktionen
+- Artikel zur Einkaufsliste hinzufügen
+- Artikel aus der Einkaufsliste löschen
+- Einkaufsliste in einer Excel-Datei speichern
+- Einkaufsliste aus einer Excel-Datei laden
+- Einkaufsliste leeren
+
+### Verwendete Technologien
+- Java
+- Apache POI (zur Verarbeitung von Excel-Dateien)
+- Swing (für die Benutzeroberfläche)
+
+### So funktioniert es
+1. Klone das Repository
+2. Öffne das Projekt in deiner bevorzugten IDE (z. B. IntelliJ IDEA, Eclipse)
+3. Baue und starte das Projekt
